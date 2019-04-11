@@ -1,11 +1,7 @@
-Don't delete anything from this folder(s) unless you know what are you doing.
+Don't delete anything from these folders unless you know what you are doing.
 
 Base: SimpleLoader
-OmniAim loader design copied by: MoTiFy
-http://motify.pw
 
-Thanks for downloading!
+https://omniaim.net - OmniAim loader design
 
-My discord: motify#1630
-
-have a great day
+My discord: Motify#5350
